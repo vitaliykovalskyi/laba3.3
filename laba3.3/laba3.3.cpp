@@ -31,7 +31,7 @@ int main()
 				if (1 < x && x <= 2)
 					y = R + (- 1 - R) * (x - 1);
 				else
-					y = -1; // це поміняти
+					y = -1;
 	
 	cout << endl;
 	cout << "y = " << y << endl;
